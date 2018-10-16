@@ -1,0 +1,6 @@
+{
+  "name": "buckaroo-test-boost-iostreams",
+  "dependencies": {
+    "boost/iostreams": "1.63.0"
+  }
+}

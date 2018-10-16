@@ -1,0 +1,11 @@
+/buckaroo
+/.buckd
+/buck-out
+.buckconfig.local
+BUCKAROO_DEPS
+
+# This is an integration test
+buckaroo.lock.json
+
+/file1
+/file2
